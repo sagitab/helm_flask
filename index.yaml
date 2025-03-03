@@ -3,12 +3,12 @@ entries:
   myflaskchart:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-03-03T06:00:32.961482663Z"
+    created: "2025-03-03T07:19:42.636458222Z"
     description: A Helm chart for deploying Flask with MySQL
-    digest: e6d57e3d33647b35fbfc55c27901b0c98653ce3095bc98599f605ed9f2feab34
+    digest: e7aea4262221afd1f48f0b564c144de66caec0142109721dcfb20fca21aabc71
     name: myflaskchart
     type: application
     urls:
-    - https://sagitab.github.io/helm_flask/myflaskchart-0.1.272.tgz
-    version: 0.1.272
-generated: "2025-03-03T06:00:32.961095533Z"
+    - https://sagitab.github.io/helm_flask/myflaskchart-0.1.274.tgz
+    version: 0.1.274
+generated: "2025-03-03T07:19:42.635920009Z"
